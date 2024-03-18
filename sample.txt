@@ -1,3 +1,2 @@
 this is sample file created via github GUI
-this file has been edited
 this is new line added here from git client / git cmd
